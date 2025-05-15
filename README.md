@@ -26,7 +26,7 @@ Este proyecto contiene dos partes:
    ```bash
    mysql -u root -p < database.sql
 
-   ## Sección 2: Creación de una API
+## Sección 2: Creación de una API
 
 ### 🎯 Objetivo
 Crear una API que represente un conjunto de los primeros 100 números naturales y sea capaz de:
