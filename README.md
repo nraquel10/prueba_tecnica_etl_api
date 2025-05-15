@@ -39,12 +39,12 @@ Crear una API que represente un conjunto de los primeros 100 números naturales 
 
 ### 🧱 Implementación
 
-El archivo principal es: `missing_number_api.py`.
+El archivo principal es: `api_numeros_faltantes.py`.
 
 Implementa una clase llamada `NumberSet` con las siguientes funcionalidades:
 
 - `extract(number)`: Extrae un número del conjunto.
-- `find_missing()`: Calcula cuál número fue extraído.
+- `api_numeros_faltantes`: Calcula cuál número fue extraído.
 - Validación para garantizar que el número esté en el rango 1–100.
 
 ---
@@ -54,5 +54,5 @@ Implementa una clase llamada `NumberSet` con las siguientes funcionalidades:
 Desde la terminal, navega al directorio donde está el archivo y ejecuta:
 
 ```bash
-python missing_number_api.py 37
+python api_numeros_faltantes.py 37
 
